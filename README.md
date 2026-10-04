@@ -1,4 +1,4 @@
-﻿Claude Multi-Route Launcher - Public Edition 1.0.0
+Claude Multi-Route Launcher - Public Edition 1.0.2
 ==================================================
 
 定位
@@ -27,7 +27,7 @@
 - Windows Terminal：可选
 - Git for Windows：可选
 
-Claude Code 官方 Windows 安装方式（截至 Public Edition 1.0.0 发布时）：
+Claude Code 官方 Windows 安装方式（截至 Public Edition 1.0.2 发布时）：
 PowerShell:
   irm https://claude.ai/install.ps1 | iex
 
