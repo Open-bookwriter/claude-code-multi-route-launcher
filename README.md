@@ -1,4 +1,8 @@
 Claude Multi-Route Launcher - Public Edition 1.0.2
+
+[⬇️ Download Public Edition 1.0.2](https://github.com/Open-bookwriter/claude-code-multi-route-launcher/releases/download/v1.0.2/Claude_Multi_Route_Launcher_Public_Edition_1.0.2.zip)
+
+[View all releases](https://github.com/Open-bookwriter/claude-code-multi-route-launcher/releases)
 ==================================================
 
 定位
