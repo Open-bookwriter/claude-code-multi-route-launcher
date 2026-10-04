@@ -1,0 +1,22 @@
+# Never commit local secrets or runtime data
+profiles/
+*.secret
+launcher-state.json
+projects.json
+settings.json
+
+# Credentials / environment
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+*.log
+
+# Claude Code local-only settings
+.claude/settings.local.json
+
+# Windows
+Thumbs.db
+Desktop.ini
